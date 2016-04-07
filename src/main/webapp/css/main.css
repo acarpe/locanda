@@ -1,0 +1,39 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+@font-face {
+    font-family: "Playfair display";
+    src: url("PlaydairDisplay-Black.ttf") format("truestype");    
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, h3{
+    font-family: "Playfair display";
+}
+
+.container, #footer {
+    font-family: "Playfair display";
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li {
+	line-height: 2em;
+}
+
+
+.titolo {
+	text-shadow: -2px 4px 3px #666;
+}
+
+
+
+body {
+	font-size: 18px;
+}
+
